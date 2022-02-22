@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{C0FF981D-9D4B-4CAA-900C-F144BD1B6687}|Default">
+  <MonoDevelop.Ide.ItemProperties.ShoppingListCollections FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ShoppingListCollections/Program.cs">
+    <Files>
+      <File FileName="ShoppingListCollections/Program.cs" Line="10" Column="10" />
+      <File FileName="../DataStructuresCollections/DataStructuresCollections/Program.cs" Line="21" Column="46" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ShoppingListCollections" expanded="True">
+            <Node name="ShoppingListCollections" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
